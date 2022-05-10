@@ -198,6 +198,7 @@ namespace LinkedListonly
 
       
             Console.Write("Created Linked list is: ");
+            Console.Write("");
             llist.printList();
         }
     }
